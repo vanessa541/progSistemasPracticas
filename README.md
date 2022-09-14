@@ -1,5 +1,8 @@
 # progSistemasPracticas
 Practicas de la materia de Programacion en sistemas
+# Ensamblador
+### Un ensamblador es un programa cuya función es la de traducir un fichero fuente en un lenguaje ensamblador, que a pocas palabras vendría siendo código máquina.Se encarga de llevar todos los ficheros que puedan existir a un lenguaje que cualquier máquina pueda entender.
+
 # Hola en este apartado hablaremos sobre ligadores 
 ### Un ligadore enlaza distintos módulos o programas que poseen subprogramas. Además incorporan las denominadas rutas de librerías en caso de solicitarlas el propio programa.
 ## Biblioteca
