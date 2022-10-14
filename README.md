@@ -26,3 +26,15 @@ Practicas de la materia de Programacion en sistemas
 [bibliotecaDinamica.zip](https://github.com/vanessa541/progSistemasPracticas/files/9592590/bibliotecaDinamica.zip)
 
 
+### Función random: nos sirve para obtener numeros aleatorios.
+
+<img width="222" alt="image" src="https://user-images.githubusercontent.com/111407329/195732994-29a127a7-cc13-416d-92a7-3a5b1eb473a8.png">
+<img width="133" alt="image" src="https://user-images.githubusercontent.com/111407329/195733029-b39a40cd-9e5e-445e-ab8d-df8b8c9c50df.png">
+
+## Practica Listas
+### Las listas son colecciones de elementos de distintos tipos, usan corchetes ( []) para encerrar a sus elementos, y comas (,) para separarlos.
+#### En esta práctica creamos dos listas, solicitando al usuario un numero entero para determinar cuantos elementos almacenara, con la ayuda de la función random se determinan los 0's y 1's de la lista. Sumamos los datos de cada lista y determinamos cual es mayor.Adjunto captura del código y de la ejecución.
+
+<img width="391" alt="image" src="https://user-images.githubusercontent.com/111407329/195733130-6427ade2-45cd-4595-ba22-a9097ff7e808.png">
+
+<img width="187" alt="image" src="https://user-images.githubusercontent.com/111407329/195733110-0da0a18c-8ba7-45a2-810a-07da4e9d6685.png">
